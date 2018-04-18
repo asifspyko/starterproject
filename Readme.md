@@ -1,3 +1,3 @@
 #Starter Project
 
-###npm install to intsall dependencies
+###npm install to install dependencies
